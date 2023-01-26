@@ -1,4 +1,28 @@
-# umbraco-packages-list
+# :crown: Awesome Umbraco :briefcase:
+
+> A curated list of awesome things related to Umbraco
+
+<details>
+<summary>:gem: Sites</summary>
+
+- [Baker Tilly International (BTI)](https://www.bakertilly.global/)
+- [Elkedjan](https://www.elkedjan.se/)
+- [Olympic Holidays](https://www.olympicholidays.com/)
+- [Titanic Belfast](https://www.titanicbelfast.com/)
+- [Raven Industries](https://www.blendinteractive.com/services/what-we-implement/umbraco/?utm_source=Umbraco&utm_medium=PartnerPage)
+- [Bruntwood Works](https://pioneerbybruntwoodworks.co.uk/)
+- [LivingData](https://www.livingdata.de/)
+- [Asda Money](https://money.asda.com/)
+- [Investor](https://www.investorab.com/)
+- [Thomas Cook](https://www.ving.se/)
+- [Savor Seattle Food Tours](https://www.savorseattletours.com/)
+- [YoungMinds](https://youngminds.org.uk/)
+
+
+</details>
+
+<details>
+<summary>Packages</summary>
 A List of Umbraco packages
 ***
 
@@ -24,6 +48,10 @@ A List of Umbraco packages
 - Winner: [Konstrukt](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/?_ga=2.243041154.1028129572.1674465758-1991973181.1668532380) by Outfield Digital (Matt & Lucy Brailsford)
 ### Jury's Choice
 - Winner: [Contentment](https://our.umbraco.com/packages/backoffice-extensions/contentment/?_ga=2.243041154.1028129572.1674465758-1991973181.1668532380) by Lee Kelleher
+
+
+</details>
+
 
 ***
 ## Refs:
