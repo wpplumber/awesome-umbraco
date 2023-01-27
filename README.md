@@ -3,6 +3,19 @@
 > A curated list of awesome things related to Umbraco
 
 <details>
+<summary>:link: Downloads</summary>
+
+| Version | Requirements |
+| --- | --- |
+| [Version 7](https://our.umbraco.com/ReleaseDownload?id=298978) | Windows OS |
+| [Version 8](https://our.umbraco.com/ReleaseDownload?id=295936) | Windows OS |
+| Version 9 | Recommended install from the command line|
+| Version 10 | Recommended install from the command line |
+
+
+</details>
+
+<details>
 <summary>:gem: Sites</summary>
 
 - [Baker Tilly International (BTI)](https://www.bakertilly.global/)
@@ -22,7 +35,7 @@
 </details>
 
 <details>
-<summary>Packages</summary>
+<summary>:gift: Packages</summary>
 A List of Umbraco packages
 ***
 
